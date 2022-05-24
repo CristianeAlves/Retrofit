@@ -13,8 +13,12 @@ class RetrofitInitializer {
             .addConverterFactory(GsonConverterFactory.create())
             .build()
 
-    fun getFriendService() : FriendService {
+    fun friendService() : FriendService {
         return retrofit.create(FriendService::class.java)
+    }
+
+    fun accountService(): AccountService {
+        return retrofit.create(AccountService::class.java)
     }
 
 
