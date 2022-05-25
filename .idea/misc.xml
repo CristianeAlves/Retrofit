@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/drawable/background_button.xml" value="0.215" />
+        <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/drawable/background_grey.xml" value="0.215" />
         <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/layout/activity_friends.xml" value="0.25" />
         <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/layout/item_friend.xml" value="0.25" />
         <entry key="..\:/Users/crisa/AndroidStudioProjects/AulaRetrofit/app/src/main/res/layout/item_friends.xml" value="0.2359375" />
       </map>

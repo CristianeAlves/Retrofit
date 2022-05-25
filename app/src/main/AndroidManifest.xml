@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AulaRetrofit">
         <activity
+            android:name=".ui.activities.RegisterActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.activities.LoginActivity"
             android:exported="true">
             <intent-filter>
@@ -25,9 +28,7 @@
             android:exported="false" />
         <activity
             android:name=".ui.activities.MainActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
     </application>
 
 </manifest>
